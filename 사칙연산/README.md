@@ -25,7 +25,7 @@ dart run 파일명.dart
 예를 들어, 덧셈 예제를 실행하려면:
 
 ```
-cd addition_더하기
+cd 사칙연산/addition_더하기
 dart run addition.dart
 ```
 
